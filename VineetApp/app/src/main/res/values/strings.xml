@@ -1,0 +1,16 @@
+<resources>
+	
+	<!-- Project level resources -->
+	<string name="app_name">VineetApp</string>
+	
+	<!-- Resources for LoginPageActivity -->
+	<string name="login_page_activity_label2_text_view_text">Video consult top doctors from\nthe comfort of your home</string>
+	<string name="login_page_activity_apptitle_text_view_hint">Vineet Healthcare App</string>
+	<string name="login_page_activity_signin_button_text">Trouble signing in?</string>
+	<string name="login_page_activity_label1_text_view_hint">Lets get started! Enter your mobile number</string>
+	<string name="login_page_activity_apptitle_text_view_text">Vineet Healthcare App</string>
+	<string name="login_page_activity_label2_text_view_hint">Video consult top doctors from\nthe comfort of your home</string>
+	<string name="login_page_activity_label1_text_view_text">Lets get started! Enter your mobile number</string>
+	<string name="login_page_activity_signin_button_hint">Trouble signing in?</string>
+	<string name="login_page_activity_textbox_edit_text_hint">Enter Mobile Number</string>
+</resources>
